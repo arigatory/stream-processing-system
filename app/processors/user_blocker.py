@@ -1,4 +1,4 @@
-from utils.json_handler import JsonHandler
+from app.utils.json_handler import JsonHandler
 
 
 class UserBlocker:
